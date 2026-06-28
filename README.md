@@ -50,3 +50,9 @@ Proyecto orientado a control de gestión bancaria. Los KPIs incluyen:
 cumplimiento de meta mensual, ranking por región, semáforo de desempeño
 (verde ≥95%, amarillo ≥80%, rojo <80%) y análisis de productividad
 por ejecutivo y zona geográfica.
+
+## Vista previa
+
+![Resumen KPIs](docs/reporte_preview_1.png)
+
+![Detalle Ejecutivos](docs/reporte_preview_2.png)
